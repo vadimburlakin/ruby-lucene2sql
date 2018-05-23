@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mysql (2.9.1)
+    parslet (1.8.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mysql (~> 2.9)
+  parslet (~> 1.8)
+
+BUNDLED WITH
+   1.16.2
